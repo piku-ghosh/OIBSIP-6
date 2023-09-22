@@ -1,3 +1,3 @@
 # OIBSIP-6
-TRIBUTR PAGE
+TRIBUTE PAGE
 Oasis Infobyte Internship Web development sixth task.
